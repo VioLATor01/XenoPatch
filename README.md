@@ -1,5 +1,5 @@
 # XenoPatch
-Мини-патч для **Xeno Executor 1.1.5**, добавляющий в инжектор небольшое меню функций:
+Мини-патч для **Xeno Executor 1.1.5**, добавляющий в инжектор меню функций:
 
 ![image](https://github.com/user-attachments/assets/a3db06ac-7f98-4a97-9324-c64b9621bb57)
 
